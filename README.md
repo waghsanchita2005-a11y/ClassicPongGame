@@ -25,8 +25,8 @@ You need Python 3.9 installed on your system. This project uses only standard Py
 
 1.  Clone the repository:
     ```bash
-    git (https://github.com/waghsanchita2005-a11y/Classic_Pong_Game.git)
-    cd https://github.com/waghsanchita2005-a11y/Classic_Pong_Game.git
+    git (https://github.com/waghsanchita2005-a11y/ClassicPongGame.git)
+    cd https://github.com/waghsanchita2005-a11y/ClassicPongGame.git
     ```
 
 2.  Run the game script:
